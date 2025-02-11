@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+ortools
+lark-parser
+pycddlib
+graphviz
+torch
+psitip == 1.1.6
